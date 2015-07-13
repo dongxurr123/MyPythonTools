@@ -1,9 +1,12 @@
 # MyPythonTools
 Some tools writen in python
 
-1.AccountByName2ByDate is highly customized,  it may not meet your requirement.
+## 1.AccountByName2ByDate
+AccountByName2ByDate is highly customized,  it may not meet your requirement.
+AccountByName2ByDate是高度定制的东西，用来转换公司报账excel格式的，你应该用不到的。
 
-2.EncryptQuickSrc is a tool for encrypting quick-cocos2d-x source code, it's tested on quick-3.3-final.
+## 2.EncryptQuickSrc
+EncryptQuickSrc is a tool for encrypting quick-cocos2d-x source code, it's tested on quick-3.3-final.
 usage: python main.py -i <src directory, just lua src dir> -o <output encrypted zip file path> -k <xxtea key> -s <sign>
 It encrypt the lua source files without compiling. 
 So you don't need to worry about that you are running you game on lua or luajit.
